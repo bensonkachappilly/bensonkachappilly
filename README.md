@@ -8,7 +8,7 @@
   - [Random Forest workflow to classify a set of activities with intertial sensor data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Random%20Forest%20workflow%20for%20set%20of%20activities%20with%20inertial%20sensor%20data.ipynb)
   - [Stochastic Gradient Descent workflow to classify the plants data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Stochastic%20Gradient%20Descent%20woirkflow%20to%20classify%20the%20plants%20data.ipynb)
 - <b>Statistical Analysis</b>
-  - [KNN, Linear and Logistic regression workflow on Abalone and Wine data](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [KNN, Linear and Logistic regression workflow on Abalone and Wine data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/KNN%2C%20Linear%20and%20Logistic%20regression%20workflow%20on%20Abalone%20and%20Wine%20data.R)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
