@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @bensonkachappilly <br/><a href="https://github.com/bensonkachappilly">Data Scientist student</a>, <a href="www.linkedin.com/in/benson-kachappilly-70102a144/">Quality Control analyst</a>
+<h1>👋 Hi, I’m @bensonkachappilly <br/><a href="https://github.com/bensonkachappilly">Data Scientist student</a>, <a href="http://linkedin.com/in/benson-kachappilly-70102a144/">Quality Control analyst</a>
 
 <h2> Data Science Projects:</h2>
 
