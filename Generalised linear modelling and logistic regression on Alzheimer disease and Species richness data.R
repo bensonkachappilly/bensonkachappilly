@@ -1,0 +1,50 @@
+set.seed(1)
+x<-runif(10,min = 0, max = 1)
+options(digits = 3)
+drosophi.df<-read.table("A4_Drosophi.txt", header = T)
+library(GGally)
+library(dplyr)
+drosophi.df<- drosophi.df %>%
+  mutate(Avoidance_Proportion = R / N)
+sqrt(aggregate(R / N~Genotype + Food + Condition, data = drosophi.df, FUN = var))
+ggplot(drosophi.df, aes(x = Food, y = Avoidance_Proportion, fill = Condition )) +
+  geom_boxplot() +
+  facet_grid(Genotype ~ Condition) +
+  labs(x = "Food", y = "Proportion of flies avoiding shock", fill = "Condition") +
+  theme_minimal()
+drosophi1<-glm(R/N ~ Genotype + Food + Condition, family = binomial(logit), weights = N, data = drosophi.df)
+summary(drosophi1)
+formL<-formula(~1)
+formU<-formula(~(Genotype + Food+ Condition)^2)
+start.mod<-glm(R/N~(Genotype + Food + Condition)^2, family = binomial(logit), weights = N, data = drosophi.df)
+drosophi2<-step(start.mod, direction = "backward", scope = list(upper=formU, lower=formL))
+drosophi3<-glm(R/N ~ Genotype + Food + Condition + Food:Condition + Genotype:Food, family = binomial(logit), weights = N, data = drosophi.df)
+summary(drosophi3)
+anova(drosophi3, test = "Chisq")
+1- pchisq(39.4, df = 52)
+drosophi.df$Genotype<-factor(drosophi.df$Genotype)
+drosophi.df$Genotype<-relevel(drosophi.df$Genotype, ref = "Mnb")
+drosophi.df$Food<-factor(drosophi.df$Food)
+drosophi.df$Food<-relevel(drosophi.df$Food, ref = "PST1")
+drosophi.df$Condition<-factor(drosophi.df$Condition)
+drosophi.df$Condition<-relevel(drosophi.df$Condition, ref = "MCH")
+summary(drosophi3)
+confint(drosophi3)
+(exp(cbind(coef(drosophi3),confint(drosophi3)))-1)*100
+exp(-0.407+0.306)
+(exp(-0.407+0.306)-1)*100
+exp(-1.476+0.513)
+(exp(-1.476+0.513)-1)*100
+exp(-0.648+0.402)
+(exp(-0.648+0.402)-1)*100
+richness.df<-read.table("A4_Richness.txt", header = T)
+library(GGally)
+ggpairs(richness.df[c(5,6,7,8,9)])
+formrL<-formula(~1)
+formrU<-formula(~(MAT + Solar_rad + PSN + Ele_range)^2 +I(MAT^2) + I(Solar_rad^2) + I(PSN^2) + I(Ele_range^2))
+start.mod<-glm(richness~1, family = poisson(log), data = richness.df)
+richness2<-step(start.mod, direction = "forward", scope = list(upper=formrU, lower=formrL))
+richness3<-glm(richness ~ PSN + I(Ele_range^2) + Ele_range + I(PSN^2), family = poisson(log), data = richness.df)
+summary(richness3)
+anova(richness3, test = "Chisq")
+1 - pchisq(921, df = 619)
