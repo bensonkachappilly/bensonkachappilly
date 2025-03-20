@@ -1,4 +1,3 @@
-- 
 <h1>👋 Hi, I’m @bensonkachappilly <br/><a href="https://github.com/bensonkachappilly">Data Scientist</a>, <a href="www.linkedin.com/in/benson-kachappilly-70102a144/">Data Science student</a>
 
 <h2> Data Science Projects:</h2>
@@ -27,10 +26,10 @@
 
 [linkedin]: www.linkedin.com/in/benson-kachappilly-70102a144
 
-<!--
-
-
-
 -->- 🌱 I’m currently studying a Masters in Data Science  
-- ⚡ Fun fact: Previously in Science and Research with a Bachelors and Honours in Medical Science 
+- ⚡ Fun fact: Previously in Science and Research with a Bachelors and Honours in Medical Science <!--
+
+
+
+
 
