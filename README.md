@@ -5,7 +5,7 @@
 - <b>Reinforcement Learning</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Machine Learning</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Random Forest workflow for set of activities with intertial sensor data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Random%20Forest%20workflow%20for%20set%20of%20activities%20with%20inertial%20sensor%20data.ipynb)
 - <b>Statistical Analysis</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
