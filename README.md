@@ -10,9 +10,7 @@
 - <b>Statistical Analysis</b>
   - [KNN, Linear and Logistic regression workflow on Abalone and Wine data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/KNN%2C%20Linear%20and%20Logistic%20regression%20workflow%20on%20Abalone%20and%20Wine%20data.R)
   - [Using Non-parametric models to determine if the duration of extreme heat exposure during the first instar larval stage influence fecundity in female diamondback moths](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Using%20Non-parametric%20models%20to%20determine%20if%20the%20duration%20of%20extreme%20heat%20exposure%20during%20the%20first%20instar%20larval%20stage%20influence%20fecundity%20in%20female%20diamondback%20moths%20.R)
-  - [Generalised linear modelling and Logistic regression on Alzheimer disease and Species richness data](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+  - [Generalised linear modelling and Logistic regression on Alzheimer disease and Species richness data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Generalised%20linear%20modelling%20and%20logistic%20regression%20on%20Alzheimer%20disease%20and%20Species%20richness%20data.R)
 
 <h2> Connect with me:</h2>
 
