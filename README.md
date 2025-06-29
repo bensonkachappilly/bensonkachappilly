@@ -4,8 +4,7 @@
 
 - <b>Reinforcement Learning</b>
   - [A comparison between a simple Upper Bound Confidence algorithm and the improvement using a Q-function for a Golf scenario](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Program%20to%20implement%20a%20simple%20bandit%20algorithm%20and%20incorporate%20a%20Q%20function%20for%20the%20Golf%20Scenario.ipynb)
-  - [Using off-policy temporal difference control to solve the maze problem]
-(https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Using%20off-policy%20temporal%20difference%20control%20to%20solve%20the%20maze%20problem.py)
+  - [Using off-policy temporal difference control to solve the maze problem](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Using%20off-policy%20temporal%20difference%20control%20to%20solve%20the%20maze%20problem.py)
 - <b>Machine Learning</b>
   - [Random Forest workflow to classify a set of activities with intertial sensor data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Random%20Forest%20workflow%20for%20set%20of%20activities%20with%20inertial%20sensor%20data.ipynb)
   - [Stochastic Gradient Descent workflow to classify the plants data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Stochastic%20Gradient%20Descent%20woirkflow%20to%20classify%20the%20plants%20data.ipynb)
