@@ -3,7 +3,7 @@
 <h2> Data Science Projects:</h2>
 
 - <b>Reinforcement Learning</b>
-  - [A comparison between a simple Upper Bound Confidence algorithm and the improvement using a Q-function for a Golf scenario](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Program%20to%20implement%20a%20simple%20bandit%20algorithm%20and%20incorporate%20a%20Q%20function%20for%20the%20Golf%20Scenario.ipynb)
+  - [A comparison between a simple Upper Bound Confidence algorithm and the improvement using a Q-function for a Golf scenario](https://github.com/bensonkachappilly/golf-ucb-qlearning)
   - [Using off-policy temporal difference control to solve the maze problem](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Using%20off-policy%20temporal%20difference%20control%20to%20solve%20the%20maze%20problem.py)
 - <b>Deep Learning</b>
   - [Are RNNs useful in predicting the amount of electricity (in GWh) of Nuclear, based on the production of Nuclear, Hydro, Natural Gas, Solar, Wind over a 5-year period](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Are%20RNNs%20useful%20in%20predicting%20the%20amount%20of%20electricity%20(in%20GWh)%20of%20Nuclear%2C%20based%20on%20the%20production%20of%20Nuclear%2C%20Hydro%2C%20Natural%20Gas%2C%20Solar%2C%20Wind%20over%20a%205-year%20period.ipynb)
