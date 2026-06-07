@@ -6,7 +6,7 @@ Recent Data Science graduate with hands-on experience in reinforcement learning,
  
 ---
  
-## 🛠️ Tech Stack
+##  Tech Stack
  
 **Languages:** Python · R · SQL  
 **ML / DL:** PyTorch · scikit-learn · NumPy · Pandas  
@@ -17,7 +17,7 @@ Recent Data Science graduate with hands-on experience in reinforcement learning,
  
 ---
  
-## 📂 Data Science Projects
+##  Data Science Projects
  
 ###  Reinforcement Learning
  
