@@ -7,7 +7,7 @@
   - [Using off-policy temporal difference control to solve the maze problem](https://github.com/bensonkachappilly/maze-off-policy-td-control)
 - <b>Deep Learning</b>
   - [Are RNNs useful in predicting the amount of electricity (in GWh) of Nuclear, based on the production of Nuclear, Hydro, Natural Gas, Solar, Wind over a 5-year period](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Are%20RNNs%20useful%20in%20predicting%20the%20amount%20of%20electricity%20(in%20GWh)%20of%20Nuclear%2C%20based%20on%20the%20production%20of%20Nuclear%2C%20Hydro%2C%20Natural%20Gas%2C%20Solar%2C%20Wind%20over%20a%205-year%20period.ipynb)
-  - [Dashboard for classifying Alzheimer disease using retinal images with Vision Transformers](https://github.com/BenJMurarotto/deep-learning-alzheimers/tree/main)
+  - [Dashboard for classifying Alzheimer disease using retinal images with Vision Transformers](https://github.com/bensonkachappilly/deep-learning-alzheimers)
 - <b>Machine Learning</b>
   - [Random Forest workflow to classify a set of activities with inertial sensor data](https://github.com/bensonkachappilly/sensor-activity-random-forest)
   - [Stochastic Gradient Descent workflow to classify the plants data](https://github.com/bensonkachappilly/plant-classification-sgd)
