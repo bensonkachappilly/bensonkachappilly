@@ -34,7 +34,7 @@ Recent Data Science graduate with hands-on experience in reinforcement learning,
 - **[RNN for Electricity Generation Forecasting](https://github.com/bensonkachappilly/rnn-electricity-forecasting)**  
   Investigated whether RNNs can predict nuclear electricity generation (GWh) from a 5-year multivariate time series including Nuclear, Hydro, Natural Gas, Solar, and Wind inputs.  
   `Python` `PyTorch` `RNN` `Time Series`
-- **[Alzheimer's Disease Classification via Retinal Imaging](https://github.com/BenJMurarotto/deep-learning-alzheimers/tree/main)**  
+- **[Alzheimer's Disease Classification via Retinal Imaging](https://github.com/bensonkachappilly/deep-learning-alzheimers)**  
   Collaborative project building a dashboard for classifying Alzheimer's disease using retinal fundus images and Vision Transformers (ViT). Demonstrates application of transformer-based architectures in medical imaging.  
   `Python` `Vision Transformer` `Medical Imaging` `Dashboard`
 ---
