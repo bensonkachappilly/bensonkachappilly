@@ -1,27 +1,75 @@
-<h1>👋 Hi, I’m @bensonkachappilly <br/><a href="https://github.com/bensonkachappilly">Data Scientist student</a>, <a href="http://linkedin.com/in/benson-kachappilly-70102a144/">Quality Control analyst</a>
-
-<h2> Data Science Projects:</h2>
-
-- <b>Reinforcement Learning</b>
-  - [A comparison between a simple Upper Bound Confidence algorithm and the improvement using a Q-function for a Golf scenario](https://github.com/bensonkachappilly/golf-ucb-qlearning)
-  - [Using off-policy temporal difference control to solve the maze problem](https://github.com/bensonkachappilly/maze-off-policy-td-control)
-- <b>Deep Learning</b>
-  - [Are RNNs useful in predicting the amount of electricity (in GWh) of Nuclear, based on the production of Nuclear, Hydro, Natural Gas, Solar, Wind over a 5-year period](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Are%20RNNs%20useful%20in%20predicting%20the%20amount%20of%20electricity%20(in%20GWh)%20of%20Nuclear%2C%20based%20on%20the%20production%20of%20Nuclear%2C%20Hydro%2C%20Natural%20Gas%2C%20Solar%2C%20Wind%20over%20a%205-year%20period.ipynb)
-  - [Dashboard for classifying Alzheimer disease using retinal images with Vision Transformers](https://github.com/bensonkachappilly/deep-learning-alzheimers)
-- <b>Machine Learning</b>
-  - [Random Forest workflow to classify a set of activities with inertial sensor data](https://github.com/bensonkachappilly/sensor-activity-random-forest)
-  - [Stochastic Gradient Descent workflow to classify the plants data](https://github.com/bensonkachappilly/plant-classification-sgd)
-- <b>Statistical Analysis</b>
-  - [KNN, Linear and Logistic regression workflow on Abalone and Wine data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/KNN%2C%20Linear%20and%20Logistic%20regression%20workflow%20on%20Abalone%20and%20Wine%20data.R)
-  - [Using Non-parametric models to determine if the duration of extreme heat exposure during the first instar larval stage influence fecundity in female diamondback moths](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Using%20Non-parametric%20models%20to%20determine%20if%20the%20duration%20of%20extreme%20heat%20exposure%20during%20the%20first%20instar%20larval%20stage%20influence%20fecundity%20in%20female%20diamondback%20moths%20.R)
-  - [Generalised linear modelling and Logistic regression on Alzheimer disease and Species richness data](https://github.com/bensonkachappilly/bensonkachappilly/blob/main/Generalised%20linear%20modelling%20and%20logistic%20regression%20on%20Alzheimer%20disease%20and%20Species%20richness%20data.R)
-
-<h2> Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/benson-kachappilly-70102a144/
-
+# 👋 Hi, I'm Benson Kachappilly
+ 
+**Data Scientist · Machine Learning Engineer · Sydney, Australia**
+ 
+Recent Data Science graduate with hands-on experience in reinforcement learning, deep learning, machine learning, and statistical modelling. I enjoy working at the intersection of rigorous analysis and practical application, from building RL agents that navigate decision problems to fine-tuning Vision Transformers for medical imaging.
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+**Languages:** Python · R · SQL  
+**ML / DL:** PyTorch · scikit-learn · NumPy · Pandas  
+**Reinforcement Learning:** Q-Learning · Temporal Difference · UCB (Upper Confidence Bound)  
+**Deep Learning:** RNNs · Vision Transformers (ViT)  
+**Visualisation & GUI:** Tkinter · Matplotlib · Pillow  
+**Tools:** Conda · Git · Jupyter Notebook
+ 
+---
+ 
+## 📂 Data Science Projects
+ 
+###  Reinforcement Learning
+ 
+- **[Golf Club Selection: UCB vs Q-Learning](https://github.com/bensonkachappilly/golf-ucb-qlearning)**  
+  Modelled golf club selection as a multi-armed bandit / MDP problem. Compared a pure UCB baseline against a Q-function approach with discounted future reward estimates. Includes a Tkinter animated visualisation of the learned policy.  
+  `Python` `NumPy` `Tkinter` `RL`
+- **[Maze Solver: Off-Policy TD Control](https://github.com/bensonkachappilly/maze-off-policy-td-control)**  
+  Applied off-policy temporal difference control (Q-Learning) to solve a maze navigation problem. Evaluates convergence across different exploration strategies.  
+  `Python` `NumPy` `Reinforcement Learning`
+---
+ 
+###  Deep Learning
+ 
+- **[RNN for Electricity Generation Forecasting](https://github.com/bensonkachappilly/rnn-electricity-forecasting)**  
+  Investigated whether RNNs can predict nuclear electricity generation (GWh) from a 5-year multivariate time series including Nuclear, Hydro, Natural Gas, Solar, and Wind inputs.  
+  `Python` `PyTorch` `RNN` `Time Series`
+- **[Alzheimer's Disease Classification via Retinal Imaging](https://github.com/BenJMurarotto/deep-learning-alzheimers/tree/main)**  
+  Collaborative project building a dashboard for classifying Alzheimer's disease using retinal fundus images and Vision Transformers (ViT). Demonstrates application of transformer-based architectures in medical imaging.  
+  `Python` `Vision Transformer` `Medical Imaging` `Dashboard`
+---
+ 
+###  Machine Learning
+ 
+- **[Activity Classification: Random Forest on Inertial Sensor Data](https://github.com/bensonkachappilly/sensor-activity-random-forest)**  
+  Built a complete Random Forest pipeline to classify physical activities using wearable inertial sensor data. Includes preprocessing, feature selection, cross-validation, and evaluation.  
+  `Python` `scikit-learn` `Random Forest` `Sensor Data`
+- **[Plant Classification: SGD Workflow](https://github.com/bensonkachappilly/plant-classification-sgd)**  
+  Applied Stochastic Gradient Descent to multi-class plant classification. Explored the effect of regularisation parameters and learning rate on convergence and generalisation.  
+  `Python` `scikit-learn` `SGD` `Classification`
+---
+ 
+###  Statistical Analysis
+ 
+- **[KNN, Linear & Logistic Regression: Abalone & Wine Data](https://github.com/bensonkachappilly/abalone-wine-regression)**  
+  Comprehensive statistical workflow applying KNN, linear regression, and logistic regression to the Abalone and Wine datasets. Includes model diagnostics, residual analysis, and comparison of classification performance.  
+  `R` `KNN` `Regression` `Logistic Regression`
+- **[Non-Parametric Models: Diamondback Moth Heat Study](https://github.com/bensonkachappilly/moth-heat-nonparametric)**  
+  Used non-parametric statistical models to investigate whether the duration of extreme heat exposure during the first larval instar stage influences fecundity in female diamondback moths.  
+  `R` `Non-Parametric Statistics` `Ecology`
+- **[GLM & Logistic Regression: Alzheimer's & Species Richness](https://github.com/bensonkachappilly/glm-alzheimers-species)**  
+  Applied generalised linear modelling and logistic regression to two distinct biological datasets — Alzheimer's disease diagnostic data and ecological species richness data.  
+  `R` `GLM` `Biostatistics`
+---
+ 
+## 🤝 Connect with Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benson%20Kachappilly-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benson-kachappilly-70102a144/)
+[![Medium](https://img.shields.io/badge/Medium-@benson__kachappilly-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@benson_kachappilly)
+ 
+---
+ 
+*Open to Data Science, Machine Learning, and Data Analyst roles in Sydney and remote.*
 
 
 
